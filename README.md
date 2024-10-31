@@ -2,7 +2,7 @@
 
 Welcome to the GraphQL API exercise! This exercise will help you understand the basics of creating a GraphQL API using Node.js, Express, and Apollo Server. You will implement a simple API that allows you to perform CRUD operations on a list of users. By the end of this exercise, you should be familiar with setting up a GraphQL server, defining schemas, and writing queries and mutations.
 
-## Prerequisites
+## Prerequisite
 
 Before starting this exercise, ensure you have the following installed:
 
